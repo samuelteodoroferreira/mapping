@@ -3,3 +3,11 @@ Descrição desse projeto
 - Criação do FrontEnd, utilizando o franmework CSS Materialize;
 - Criação da Base de Dados em MySQL;
 - Criação do backend;
+
+- Arquivos modificados em 10/02/2020
+    Criação do index com botões clicaveis
+    adição dos botoes.js para funções
+    criação do form.html
+    link dos botões e efeitos de transição dos forms
+
+    
